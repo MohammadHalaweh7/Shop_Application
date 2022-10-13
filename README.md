@@ -1,6 +1,7 @@
 # Shop_Application
 Responsive build web, windows and mobile .
-#flutter, #dart, #Bloc, #Provider , #Cubit, #API , #shared_preferences, #Dark mode, #Login, #Register
+#flutter, #dart, #Bloc, #Provider , #Cubit, #API , #shared_preferences, #Dark mode, #Login, #Register.
+
 ![1](https://user-images.githubusercontent.com/78410547/195685439-09d74c56-3f8a-42b6-a52a-8c6e7412a935.png)
 ![2](https://user-images.githubusercontent.com/78410547/195685494-ff37f1c2-4605-4e4c-9342-ada0ce365763.png)
 ![3](https://user-images.githubusercontent.com/78410547/195685505-b497319a-2319-4c26-ad7b-b4a44f0a3e52.png)
